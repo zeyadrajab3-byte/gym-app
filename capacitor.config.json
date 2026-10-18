@@ -1,0 +1,8 @@
+{
+  "appId": "com.zeyad.gym",
+  "appName": "تماريني",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
